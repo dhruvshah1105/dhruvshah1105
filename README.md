@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on AWS based projects
 - 🌱 I’m currently learning serverless
 - 💬 Ask me about AWS, python and backend configuration.
-- 📫 How to reach me: dhruvshah924@gmail.com
+<!-- - 📫 How to reach me: dhruvshah924@gmail.com --!>
